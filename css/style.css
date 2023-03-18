@@ -1,0 +1,26 @@
+.ul{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+.pClass{
+    font-size: 30px;
+    color: red;
+    font-weight: 900;
+
+
+}
+.li1{
+    margin-top: 10px;
+    margin-left: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color:blueviolet
+}
+.P2{
+    margin: 20px;
+    font-size: 30px;
+    color: red;
+    font-weight: 900;
+}
